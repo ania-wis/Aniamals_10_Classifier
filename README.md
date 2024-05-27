@@ -8,8 +8,9 @@
 
 ## Overview
 
-Download model: https://drive.google.com/file/d/1RiXlO5mWv11HVnA8shMlHZ1m_XP_UYdh/view?usp=sharing
 Colab: https://colab.research.google.com/drive/1lhClincgI4J8sJG-jB0KahhCh-OUU0Z8?usp=sharing
+
+Download model: https://drive.google.com/file/d/1RiXlO5mWv11HVnA8shMlHZ1m_XP_UYdh/view?usp=sharing
 
 This project aims to build an image classifier that can distinguish between 10 different animal classes:
 - Dog
