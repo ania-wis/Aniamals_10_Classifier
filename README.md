@@ -1,5 +1,15 @@
 # Aniamals_10_Classifier
 
+This repository contains a deep learning model for classifying images of 10 different animals using TensorFlow and Keras. The model is trained on a dataset of images and can predict the class of new images.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Dataset](#dataset)
+- [Model Architecture](#model-architecture)
+- [Training](#training)
+- [Evaluation](#evaluation)
+- [Prediction](#prediction)
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Results](#results)
@@ -7,7 +17,6 @@
 - [License](#license)
 
 ## Overview
-
 Colab: https://colab.research.google.com/drive/1lhClincgI4J8sJG-jB0KahhCh-OUU0Z8?usp=sharing
 
 Download model: https://drive.google.com/file/d/1RiXlO5mWv11HVnA8shMlHZ1m_XP_UYdh/view?usp=sharing
