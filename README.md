@@ -85,13 +85,13 @@ The model is evaluated on a separate validation dataset. The training and valida
 The model can predict the class of new images. To classify images from a test dataset, the images are resized to 128x128 pixels for the model to process.
 
 ## Requirements
-Python 3.x
-TensorFlow 2.x
-Keras
-Matplotlib
-NumPy
-Pandas
-PIL (Python Imaging Library)
+- Python 3.x
+- ensorFlow 2.x
+- Keras
+- Matplotlib
+- NumPy
+- Pandas
+- PIL (Python Imaging Library)
 
 ## Install the required packages using:
 ```bash
