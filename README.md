@@ -86,17 +86,14 @@ The model can predict the class of new images. To classify images from a test da
 
 ## Requirements
 - Python 3.x
-- ensorFlow 2.x
+- TensorFlow 2.x
 - Keras
 - Matplotlib
 - NumPy
-- Pandas
-- PIL (Python Imaging Library)
 
 ## Install the required packages using:
 ```bash
-pip install tensorflow keras matplotlib numpy pandas pillow
-
+pip install tensorflow keras matplotlib numpy
 ```
 ## Usage
 Training the Model
